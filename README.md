@@ -72,7 +72,7 @@ pip install pandas numpy matplotlib seaborn faker jupyter scikit-learn langdetec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ba443/AlHaram-Guide.git
+git clone https://github.com/hessamazrua/AlHaram-Guide.git
 cd AlHaram-Guide
 ```
 
